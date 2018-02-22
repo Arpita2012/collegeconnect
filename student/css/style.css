@@ -1,0 +1,13 @@
+.main_wrap{
+	background-color: lightyellow;
+}
+
+.content{
+	min-height: 560px;
+}
+.myheader{
+	background-color: pink;
+}
+.mymaincontent{
+	min-height: 560px;
+}
