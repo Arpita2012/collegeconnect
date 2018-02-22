@@ -1,0 +1,27 @@
+1. Student
+	- Register/Login
+	- Profile update 
+	- Update status
+	- Likes
+	- Comments
+	- Save 
+	- Report abuse
+
+2. Teachers
+	- Login
+	- Update Profile
+	- Update status
+	- Likes
+	- Comments
+	- Save
+
+3. Admin
+	- Password change
+	- List/edit/delete/add students
+	- List/edit/delete/add teachers
+	- VIew report abuse requests
+	- Moderate posts
+	- Ban
+	- Announcements
+
+4. Chat

@@ -1,0 +1,36 @@
+.main_wrap_website{
+	background-color: #ddd;
+}
+
+.footer {
+	background-color: #000;
+	color:#fff;
+}
+.content{
+	min-height: 560px;
+}
+.main_content {
+	min-height: 560px;
+}
+.login_sidebar{
+	background-color: #fff;
+	min-height: 400px;
+	border: 8px solid #ddd;
+	text-align: center;
+
+}
+
+.login_sidebar h6{
+	font-size: 20px;
+	font-style: italic;
+	font-weight: bold;
+	font-family: cursive;
+}
+
+.login_sidebar form label{
+	text-align: left;
+}
+
+.registration_form{
+	background-color: pink;
+}
